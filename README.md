@@ -1,2 +1,2 @@
 # React-Rally-2017-Notes
-My Notes from React Rally 2017
+this has been moved to https://github.com/magicmark/conference-notes
